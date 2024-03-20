@@ -1,3 +1,4 @@
 # ESC190
-Praxis group project
+Praxis group project.
+
 Contains our code for Beta
